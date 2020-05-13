@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Sensor App</string>
+    <string name="listheading">Sensors in Phone</string>
+    <string name="gametx">Ball Game</string>
+    <string name="y">Yes</string>
+    <string name="n">No</string>
+    <string name="Outarea">Outside Your area!</string>
+    <string name="Outside">Outside The Area!</string>
+    <string name="backInNe">In Your Area!</string>
+    <string name="inNe">Your Base now</string>
+    <string name="Accessdenied">Denied</string>
+    <string name="gpstx">Spot Location</string>
+    <string name="stopped">Update not possible in background</string>
+    <string name="listening">Locating…</string>
+    <string name="stoppedListening">No Location Update</string>
+    <string name="enableGpsQ">Please Enable Mobile GSM</string>
+
+</resources>

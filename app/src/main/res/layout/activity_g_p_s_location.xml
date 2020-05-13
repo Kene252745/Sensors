@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/showlatitude"
+        android:layout_width="@dimen/latitude_width"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginStart="@dimen/latleft"
+        android:layout_marginTop="@dimen/lattop"
+        android:layout_marginEnd="@dimen/latright"
+        android:padding="@dimen/lat_pad"
+        android:textSize="@dimen/lat_text" />
+
+    <TextView
+        android:id="@+id/showLongitude"
+        android:layout_width="330dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginStart="@dimen/latleft"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="@dimen/latright"
+        android:padding="@dimen/lat_pad"
+        android:textSize="@dimen/lat_text" />
+
+    <TextView
+        android:id="@+id/showLocatstat"
+        android:layout_width="@dimen/stat_width"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginStart="@dimen/latleft"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="@dimen/latright"
+        android:padding="@dimen/lat_pad"
+        android:textSize="@dimen/lat_text" />
+
+
+</LinearLayout>

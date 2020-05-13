@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_margin_main">40dp</dimen>
+    <dimen name="divderheightsensor">0dp</dimen>
+    <dimen name="margintop_sensor">80dp</dimen>
+    <dimen name="marginbottom_sensor">120dp</dimen>
+    <dimen name="margin_botom_ballbutton">71dp</dimen>
+    <dimen name="latitude_width">320dp</dimen>
+    <dimen name="latleft">12dp</dimen>
+    <dimen name="lattop">220dp</dimen>
+    <dimen name="latright">12dp</dimen>
+    <dimen name="lat_pad">12dp</dimen>
+    <dimen name="lat_text">18sp</dimen>
+    <dimen name="stat_width">351dp</dimen>
+</resources>
